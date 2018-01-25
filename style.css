@@ -1,0 +1,68 @@
+/*CSS reset settings here*/
+*{
+    margin: 0px;
+    padding: 0px;
+   }
+   #wrapper{
+    width: 970px;
+    background-color: rgba(21, 71, 146, 0.726);
+    margin: 0px auto;
+    padding: 10px;
+
+   }
+   #header{
+    height: 50px;
+    width: auto;
+    background-color: red;
+    color: lightcyan;
+    padding: 10px;
+    margin: 10px; 
+    border-radius: 15px;
+    text-align: left;
+    line-height: 45px;
+   }
+   #navigation{
+    height: 200px;
+    width: 190px;
+    background-color: skyblue;
+    color: lightcyan;
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px;
+    margin: 10px;
+    text-align: left;
+    border-radius: 15px;
+   }
+   #main_content{
+    height: 520px;
+    width: 695px;
+    background-color: black;
+    color: lightcyan;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+    display: inline-block
+    
+   }
+   #footer{
+    height: 50px;
+    width: auto;
+    background-color: grey;
+    color: lightcyan;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+    text-align: left;
+    line-height: 45px;
+   }
+   .tab1{
+    text-decoration: underline;
+    list-style-position: inside;
+   }
+   tab2{
+    margin-left:10px;
+    list-style-position: inside;
+   }
+   ul{
+    margin-left: 10px;
+   }
